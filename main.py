@@ -1,7 +1,6 @@
 import logging
 from os import getenv
 from dotenv import load_dotenv
-from pathlib import Path
 
 from aiogram import Bot, Dispatcher, F, types
 from aiogram.filters import Command
